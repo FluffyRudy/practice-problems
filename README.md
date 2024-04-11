@@ -20,8 +20,11 @@ npm install
 ## Usage
 
 # 1. Navigate to the problem's directory.
-cd src/CURRENTLY_WORKING_DIRECTORY
-
+cd src/<PROBLEM_DIRECTORY> 
+- example: 
+```bash
+cd src/missingNumber
+```
 # 2. Write your solution in the `problem.ts` file.
 
 # 3. Run the tests for your solution:
