@@ -18,16 +18,14 @@ npm install
 ```
 
 ## Usage
-
+```bash
 # 1. Navigate to the problem's directory.
 cd src/<PROBLEM_DIRECTORY> 
-- example: 
-```bash
-cd src/missingNumber
-```
+- example: cd src/missingNumber
+
 # 2. Write your solution in the `problem.ts` file.
 
 # 3. Run the tests for your solution:
-```bash
+
 npx jest problem.test.ts
 ```
