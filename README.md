@@ -1,6 +1,6 @@
 # Practice Problems
 
-Welcome to the Practice Problems repository! This repository contains a collection of coding problems for you to solve and test your programming skills.
+Welcome to the Practice Problems repository! This repository contains a collection of basic coding problems for you to solve and test your programming skills.
 
 ## Getting Started
 
