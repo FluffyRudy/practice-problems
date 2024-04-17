@@ -19,13 +19,7 @@ npm install
 
 ## Usage
 ```bash
-# 1. Navigate to the problem's directory.
-cd src/<PROBLEM_DIRECTORY> 
-- example: cd src/missingNumber
 
-# 2. Write your solution in the `problem.ts` file.
-
-# 3. Run the tests for your solution:
-
-npx jest problem.test.ts
+npx jest "<Problem Directory Name>"
+# example: npx jest src/unique-among-pair
 ```
